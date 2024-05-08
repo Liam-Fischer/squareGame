@@ -345,7 +345,6 @@ namespace squareGame
             goal.X = placer.Next(8, this.Width - 11);
             goal.Y = placer.Next(8, this.Height - 11);
         }
-
         private void invertTimer_Tick(object sender, EventArgs e)
         {
             inverter.X = placer.Next(8, this.Width - 11);
