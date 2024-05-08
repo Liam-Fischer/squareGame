@@ -86,5 +86,11 @@
   <ItemGroup>
     <None Include="Resources\Ta Da-SoundBible.com-1884170640.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simpleicons-Team-Simple-Square.512.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

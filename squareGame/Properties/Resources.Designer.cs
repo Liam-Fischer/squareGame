@@ -70,6 +70,16 @@ namespace squareGame.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon Simpleicons_Team_Simple_Square_512 {
+            get {
+                object obj = ResourceManager.GetObject("Simpleicons_Team_Simple_Square_512", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
         internal static System.IO.UnmanagedMemoryStream Ta_Da_SoundBible_com_1884170640 {
